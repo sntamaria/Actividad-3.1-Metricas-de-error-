@@ -1,2 +1,1 @@
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sntamaria/Actividad-3.1-Metricas-de-error-/blob/main/Maria_Angeles_Martin_de_la_Cruz_Act_3_1_Metricas_de_error.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sntamaria/Gesti-n-de-Archivos/blob/main/Gestión_de_Archivos.ipynb)
